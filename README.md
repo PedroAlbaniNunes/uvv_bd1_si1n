@@ -5,5 +5,5 @@
 ##O repositório inclui os seguintes arquivos:
 
 -**Lojas_UVV.architect** arquivo do tipo architect com o diagrama comentado do banco de dados.
--**Lojas_UVV.pdf** arquivo do tipo PDF com o diagrama do banco de dados.
--**Lojas_UVV_emacs.sql** arquvio do tipo SQL com o script do banco de dados.
++**Lojas_UVV.pdf** arquivo do tipo PDF com o diagrama do banco de dados.
+%**Lojas_UVV_emacs.sql** arquvio do tipo SQL com o script do banco de dados.
