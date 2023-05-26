@@ -1,5 +1,5 @@
 # uvv_bd1_si1n
-## Primeiro projeto de Banco de Dados feito por mim, trata-se de um banco de dados para uma loja fictícia chamada de "Lojas UVV".
+## Primeiro projeto de Banco de Dados feito por mim, trata-se de um banco de dados para uma rede de lojas fictícia chamada de "Lojas UVV".
 ### Os softwares de visualização utilizados foram o **DBEAVER** e o **Emacs**, usados em diferentes fases do desenvolvimento do banco de dados.
 
 ## O repositório inclui os seguintes arquivos:
